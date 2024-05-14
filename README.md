@@ -13,7 +13,7 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 ## Schema Design 
 For Sparkify database i designed a star schema which consist of one fact table (songplays), and  four dimensional tables (songs, artists, users and time).
 
- ![Sparkify star schema](https://drive.google.com/file/d/1gJ2sLSXYSvRRhitleci_2q3YdNun6yyr/view?usp=sharing)
+ ![Sparkify star schema](./Sparkify star schema.png)
 
 #### Fact Table
 - songplays - records in log data associated with song plays i.e. records with page NextSong
